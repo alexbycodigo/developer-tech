@@ -1,1 +1,2 @@
 # developer-tech
+.gitignore
